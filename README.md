@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Tasidrei/Tasidrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Just check my social media accounts.
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I love traveling ✈️ 🚢 🚆 🚗 🚲 🛴 around the world  🌍 and spending time with my cats  🐱 .
--->
+
