@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-**Tasidrei/Tasidrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving my web development skills and building small projects.  
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and GitHub workflows.  
 - 👯 I’m looking to collaborate on beginner‑friendly web projects.  
